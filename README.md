@@ -22,7 +22,7 @@
 
 ## 📂 Featured Projects
 
-### 🌍 CodeAlpha Language Translator
+### 🌍 Language Translator
 A Python-based language translator supporting multiple languages using the deep-translator library.
 
 **Features**
@@ -36,7 +36,7 @@ A Python-based language translator supporting multiple languages using the deep-
 
 ---
 
-### 🤖 CodeAlpha FAQ Chatbot
+### 🤖 FAQ Chatbot
 An intelligent FAQ chatbot that matches user questions with predefined answers using NLP-based similarity matching.
 
 **Features**
@@ -51,8 +51,6 @@ An intelligent FAQ chatbot that matches user questions with predefined answers u
 ---
 
 ## 📈 Current Goals
-
-- Complete the CodeAlpha AI Internship
 - Build more AI and Python projects
 - Learn Machine Learning
 - Contribute to Open Source
